@@ -1,2 +1,7 @@
 File 2 Added.
 To be added to the branch.
+
+New changes starts here
+Change1
+Change2
+Change3
